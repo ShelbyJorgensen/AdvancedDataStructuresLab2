@@ -38,6 +38,7 @@ public class BST
     	}
     }
     // ---------------------------------------------------------------------
+    // ALL CODE BELOW WAS PROVIDED AS PART OF THE LAB
     // Do not change any of the code below!
     private class Node
     {
